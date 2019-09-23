@@ -13,4 +13,8 @@ function feature1() {
     console.log('this is a main class, master branch', 'feature1')
 }
 
+function feature2() {
+    console.log('this is a main class, master branch', 'feature2')
+}
+
 main()
