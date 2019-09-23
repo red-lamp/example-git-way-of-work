@@ -6,15 +6,15 @@
  */
 
 function main() {
-    console.log('this is a main class, master branch')
+    console.log('this is a main class, dev branch')
 }
 
 function feature1() {
-    console.log('this is a main class, master branch', 'feature1')
+    console.log('this is a main class, dev branch', 'feature1')
 }
 
 function feature2() {
-    console.log('this is a main class, master branch', 'feature2')
+    console.log('this is a main class, dev branch', 'feature2')
 }
 
 main()
