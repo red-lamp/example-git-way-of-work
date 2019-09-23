@@ -9,4 +9,8 @@ function main() {
     console.log('this is a main class, master branch')
 }
 
+function feature1() {
+    console.log('this is a main class, master branch', 'feature1')
+}
+
 main()
