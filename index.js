@@ -21,4 +21,8 @@ function feature3() {
     console.log('this is a main class, dev branch', 'feature3')
 }
 
+function feature4() {
+    console.log('this is a main class, dev branch', 'feature4')
+}
+
 main()
