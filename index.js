@@ -6,19 +6,19 @@
  */
 
 function main() {
-    console.log('this is a main class, test branch')
+    console.log('this is a main class, staging branch')
 }
 
 function feature1() {
-    console.log('this is a main class, test branch', 'feature1')
+    console.log('this is a main class, staging branch', 'feature1')
 }
 
 function feature2() {
-    console.log('this is a main class, test branch', 'feature2')
+    console.log('this is a main class, staging branch', 'feature2')
 }
 
 function feature3() {
-    console.log('this is a main class, test branch', 'feature3')
+    console.log('this is a main class, staging branch', 'feature3')
 }
 
 main()
