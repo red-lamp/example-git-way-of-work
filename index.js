@@ -54,4 +54,8 @@ function feature11() {
     console.log('this is a main class', 'feature11_fixed_bugs')
 }
 
+function feature12() {
+    console.log('this is a main class', 'feature12')
+}
+
 main()
