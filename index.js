@@ -69,10 +69,12 @@ function feature14() {
 
 function feature15() {
     console.log('this is a main class', 'feature15')
+    console.log('this is a main class', 'feature15_fixed_bugs')
 }
 
 function feature16() {
     console.log('this is a main class', 'feature16')
+    console.log('this is a main class', 'feature16_fixed_bugs')
 }
 
 main()
