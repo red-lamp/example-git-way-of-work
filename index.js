@@ -81,4 +81,12 @@ function feature17() {
     console.log('this is a main class', 'feature17')
 }
 
+function feature18() {
+    console.log('this is a main class', 'feature18')
+}
+
+function feature19() {
+    console.log('this is a main class', 'feature19')
+}
+
 main()
