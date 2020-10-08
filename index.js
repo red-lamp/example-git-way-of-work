@@ -97,4 +97,8 @@ function feature21() {
     console.log('this is a main class', 'feature21_fixed_bugs')
 }
 
+function feature22() {
+    console.log('this is a main class', 'feature22')
+}
+
 main()
